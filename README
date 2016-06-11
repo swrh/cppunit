@@ -1,19 +1,20 @@
-		CppUnit --- The C++ Unit Test Library
-		-------------------------------------
-		    http://cppunit.sourceforge.net
+CppUnit - The C++ Unit Test Library
+===================================
 
+CppUnit is the C++ port of the famous JUnit framework for unit testing.
 
-CppUnit is the C++ port of the famous JUnit framework for unit
-testing.
+This is a fork of the original CPPUnit library, cloned from the original svn
+repository (which was apparently forked from a CVS repository).
 
-For MSWindows installation notes, see INSTALL-WIN32.txt.
-For other systems -- including cygwin -- see INSTALL and INSTALL-unix.
+I will accept patches to this version of CPPUnit and, if sufficient new
+features or bugfixes warrant it, release a new version as CPPUnit-forked.
 
+I do not intend to go on any large coding binges: CPPUnit has been stable and
+usable for many years, and I have no intention of changing that - I just intend
+to allow improving on it.
 
-Bug reports are welcome.  Please use the SourceForge bug tracking
-system at http://sourceforge.net/projects/cppunit/.  Bugs that already
-appear in the file BUGS do not need to be reported.
+For MSWindows installation notes, see INSTALL-WIN32.txt. For other systems --
+including cygwin -- see INSTALL and INSTALL-unix.
 
-Email to the current maintainers may be sent to
-<cppunit-devel@lists.sourceforge.net>.
-
+Bug reports are welcome. Please use the GitHub issues and pull request system
+for that. Bugs that already appear in the file BUGS do not need to be reported.
